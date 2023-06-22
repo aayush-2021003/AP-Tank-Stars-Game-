@@ -1,0 +1,48 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "tankstarterrain.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "ground.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "purple.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "tankstarterrain.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 455,
+                "y": 241
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/parth/Downloads/TankStar/assets",
+    "map.height": 480,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 1,
+    "map.tileWidth": 1,
+    "map.width": 800,
+    "openFiles": [
+        "tankstarterrain.tmx"
+    ],
+    "project": "terrain.tiled-project",
+    "recentFiles": [
+        "tankstarterrain.tmx",
+        "purple.tsx",
+        "ground.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 1,
+        "width": 1
+    }
+}
