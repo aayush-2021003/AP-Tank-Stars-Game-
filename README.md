@@ -9,10 +9,12 @@ This project involves the major concepts of Object Oriented Programming, with re
 ### Screens
 - ChooseTankScreen.java: This screen allows both the players to choose any tank of their choice from the available option(Abrams, Helios and Coalition).
 - GameOverScreen.java: This screen pops up when the health bar of any player touches zero. This screen indicates that the current game has ended and gives users the option to restart the current game or go to the home screen of the game.
-- Home Page.java: This screen displays three buttons: New Game, Resume and Exit. The new game button starts a new game for the user, the resume button allows users to choose from a list of saved games to load and exot button exits the application
+-MainMenuScreen.java: This screen displays three buttons: New Game, Resume and Exit. The new game button starts a new game for the user, the resume button allows users to choose from a list of saved games to load and exot button exits the application
 - InGameScreen.java: This is the screen which is displayed when the game is in progress. It has multiple options for the users: Pause game, Save game, etc.
 - ResumeScreen.java: This screen displays the list of all saved games for the user to choose from.
 - LoadGameScreen.java: This is the loading screen which shows up while the game loads.
+- PauseScreen.java: This is the in-game pause screen.
+- HomePage.java: This screen displays the game icon and if clicked upon, proceeds to load the game.
 
 ### Entities
 - Tank.java: This is the tank entity of the game. This is the main entity which moves on a terrain, shoots and aims.
